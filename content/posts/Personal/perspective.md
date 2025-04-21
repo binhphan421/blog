@@ -1,6 +1,7 @@
 +++
 date = '2025-04-20T18:42:08-07:00'
 title = 'Perspective'
+categories = ['Personal']
 +++
 
 {{< figure src=/blog/images/perspective/mom.jpg >}}
