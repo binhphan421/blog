@@ -8,7 +8,7 @@ title = 'Me'
    	   icon = 'user'
 +++
 
-I will write this later :) 
+I will write this later :) Iono when.
 
 * [MyAnimeList](https://myanimelist.net/profile/binhphan421)
 * [Letterboxd](https://letterboxd.com/binhphan421/)
