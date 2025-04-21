@@ -48,85 +48,14 @@ theme = 'stack'
 
   [params.comments]
     enabled = false
-    provider = "disqus"
-
-    [params.comments.disqusjs]
-      shortname = ""
-      apiUrl = ""
-      apiKey = ""
-      admin = ""
-      adminLabel = ""
-
-    [params.comments.utterances]
-      repo = ""
-      issueTerm = "pathname"
-      label = ""
-
-    [params.comments.beaudar]
-      repo = ""
-      issueTerm = "pathname"
-      label = ""
-      theme = ""
-
-    [params.comments.remark42]
-      host = ""
-      site = ""
-      locale = ""
-
-    [params.comments.vssue]
-      platform = ""
-      owner = ""
-      repo = ""
-      clientId = ""
-      clientSecret = ""
-      autoCreateIssue = false
-
-    [params.comments.waline]
-      serverURL = ""
-      lang = ""
-      visitor = ""
-      avatar = ""
-      emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
-      requiredMeta = ["nick", "mail"]
-
-      [params.comments.waline.locale]
-        admin = "Admin"
-        placeholder = ""
-
-    [params.comments.twikoo]
-      envId = ""
-      region = ""
-      path = ""
-      lang = ""
-
-    [params.comments.giscus]
-      repo = ""
-      repoID = ""
-      category = ""
-      categoryID = ""
-      mapping = ""
-      strict = ""
-      lightTheme = ""
-      darkTheme = ""
-      reactionsEnabled = 1
-      emitMetadata = 0
-      inputPosition = ""
-      lang = ""
-
-    [params.comments.gitalk]
-      owner = ""
-      admin = ""
-      repo = ""
-      clientID = ""
-      clientSecret = ""
-
-    [params.comments.cusdis]
-      host = ""
-      id = ""
 
   [params.widgets]
-    homepage = []
     page = []
+
+  [[params.widgets.homepage]]
+    type = "categories"
+    [params.widgets.homepage.params]
+      limit = 10
 
   [params.opengraph]
     [params.opengraph.twitter]
@@ -149,3 +78,10 @@ theme = 'stack'
 
     [params.imageProcessing.content]
       enabled = true
+
+[[menu.social]]
+  identifier = "instagram"
+  name = "Instagram"
+  url = "https://www.instagram.com/binhphan421/"
+  [menu.social.params]
+      icon = "brand-instagram"
