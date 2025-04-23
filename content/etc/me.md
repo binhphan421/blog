@@ -16,6 +16,8 @@ I started writing again in November 2024, after a long hiatus originating from w
 
 Apologies in advance. I have found since coming back to this world, that I'm often moody when writing (potentially under the influence), and it will definitely show. Please bear with me as I try to show what I often am too scared to say.
 
+And do not worry about me. My expression here is not to give up; it is for me to find what it means to live.
+
 ---
 
 If you're interested in what I watch, play or listen to:
