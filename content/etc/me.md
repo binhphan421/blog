@@ -24,4 +24,4 @@ If you're interested in what I watch, play or listen to:
 * [MyAnimeList](https://myanimelist.net/profile/binhphan421)
 * [Letterboxd](https://letterboxd.com/binhphan421/)
 * [Backloggd](https://backloggd.com/u/binhphan421/)
-* [Spotify](https://open.spotify.com/playlist/74Cwe1cD9jQMkJWQsRjSNj?si=639990d0c499456d)
+* [Spotify](https://open.spotify.com/user/121516000?si=d09a2ffa2fab4e8a)
