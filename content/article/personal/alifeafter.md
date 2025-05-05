@@ -6,7 +6,9 @@ author = 'Binh'
 +++
 
 {{< figure src=/blog/images/alifeafter/momandi.jpg >}}
+
 ---
+
 Somewhere in my times at Orange Coast College, my father's final wishes truly sunk in this child turned adult. 
 
 1. Stay in School

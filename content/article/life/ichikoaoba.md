@@ -5,8 +5,10 @@ title = 'Ichiko Aoba'
 description = 'At the Wiltern on April 27th, 2025'
 +++
 
-{{< figure src="/blog/images/ichikoaoba/wiltern.jpg">}}
+{{< figure src="/blog/images/ichikoaoba/wiltern.jpg">}} 
+
 ---
+
 The day was a personally planned belated Birthday bash, if you will, centered around music: a trip to the OC Record Show to splurge on vinyls (that I have no clue whether or not are accurately priced), and the main entree, a ticket to see Ichiko Aoba at the Wiltern, bought months prior on a whim from an Instagram ad. 
 
 Shopping is as one would expect (I left with a few Gil Scott Heron and Marvin Gaye records), but my anticipation was all for the late night show, which required a near 2 hour trip through infamous Los Angeles traffic to reach. I arrived, and my senses were met with the brutality of what I imagine occurs in many highly populated urban cities. The tagged abandoned buildings. The stench of overfilled trashcans. The distant stares and gibberish of the down trodden. The quest for cheap parking. The American Reality for many. I bared the streets for a few hours before the doors opened. 

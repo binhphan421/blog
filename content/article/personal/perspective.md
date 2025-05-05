@@ -5,7 +5,9 @@ categories = ['Personal']
 +++
 
 {{< figure src=/blog/images/perspective/mom.jpg >}}
+
 ---
+
 Frustration. Resentment. Confusion. Regret.
 
 Coming to terms with my mother's twilight years has been anything but a story. There is no consistent character progression. No parts predetermined outside of her eventual passing. A resolution seems out of reach for this plot. Simply, this is me, my life and I've never been straightforward, with myself or with those around me. Slow. Inconsistent. Afraid. Unsure. 

@@ -6,7 +6,9 @@ categories = ['Personal']
 +++
 
 {{< figure src="/blog/images/april30/momandi.jpg">}}
+
 ---
+
 Like many others, my place in America and my homeland has always been put into question. Where I grew up, my eyes and facial features are foreign and I'm not simply just an American, but Asian American. The lack of specificity prevalent in American perspective towards any person east of Europe. Where my parents grew up, my clothes, demeanor, and struggle with the language indicates that I'm not South Vietnamese, not even Vietnamese, but American. Nothing like them at all.
 
 There is much to be said about one's environment, and how it shapes you. As the only US born in my immediate family, I was only exposed to my homeland's culture by my parents, and my community; but it can never be the same. The lack of humidity in every single breath. The crowless mornings. Paved streets filled with sedans, vans, and trailers, rather than mopeds, bikes and rickshaws on wet dirt. Ignorance is to assume that differences have no impact on my understanding and interpretation of my culture. There are grains of truth in each sweeping judgement: I'm not simply just an American and it would be pretentious of me to say that I'm just as Vietnamese as those who live in the motherland. 

@@ -6,6 +6,8 @@ title = 'About Me'
 
 {{< figure src="/blog/images/me/fam.jpg" >}}
 
+---
+
 Hello, my name is Binh Phan (as you most likely already know, if you found this page) and the avatar is my little buddy Pepper. 😸
 
 I started writing again in November 2024, after a long hiatus originating from when I entered the corporate world in 2016, so as a result of the long break, I'm still in search of that style, and voice that I would be proud of. I started this blog with the idea of translating and cleaning some of my personal journal entries for others to view, granted they are curious enough to find this page. You may also find more random posts in the future, maybe reviews or attempts at more creative pieces. 

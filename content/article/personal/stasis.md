@@ -6,6 +6,8 @@ categories = ['Personal']
 
 {{< figure src=/blog/images/stasis/pepper.jpg >}}
 
+---
+
 I think, it was the first time I ever had an anxiety attack. 
 
 Reeling from a night smothered in a pillow and tears, I sat listlessly in my car at a gas station, as the sun battered my face. The weight of my mother's rejection ambushed me from all angles, debilitating me as my brain frenzied at the implications of a dream unachievable. My head stuck between trembling hands. My mind crushed within. These moments would reoccur, no matter where and when. 
