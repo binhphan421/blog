@@ -19,6 +19,7 @@ theme = 'bilberry'
   permanentTopNav = true
   customImage = "site/pepper.jpg"
   subtitle = "Since I cannot speak, I write."
+  css_modules = [ "css/logo.css" ]
 
   [params.favicon]
 
