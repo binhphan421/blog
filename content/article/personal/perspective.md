@@ -2,11 +2,8 @@
 date = '2025-04-20T18:42:08-07:00'
 title = 'Perspective'
 categories = ['Personal']
+featuredImage = '/blog/images/perspective/mom.jpg'
 +++
-
-{{< figure src=/blog/images/perspective/mom.jpg >}}
-
----
 
 Frustration. Resentment. Confusion. Regret.
 

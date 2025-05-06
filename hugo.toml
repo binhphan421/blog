@@ -26,6 +26,7 @@ theme = 'bilberry'
   footerBackgroundColor = "#191919"
   footerHeadlineColor = "#BE3144"
   navTextColor = "#f1f1f1"
+  blockquoteBackgroundColor = "#191919"
   css_modules = [ "css/custom.css" ]
   paginate = 10
   showSocialMedia = true

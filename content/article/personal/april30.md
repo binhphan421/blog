@@ -3,11 +3,8 @@ date = '2025-05-01T09:36:06-07:00'
 title = 'April 30th'
 description = 'A day late, but not out of neglect. I swear.'
 categories = ['Personal']
+featuredImage = '/blog/images/april30/momandi.jpg'
 +++
-
-{{< figure src="/blog/images/april30/momandi.jpg">}}
-
----
 
 Like many others, my place in America and my homeland has always been put into question. Where I grew up, my eyes and facial features are foreign and I'm not simply just an American, but Asian American. The lack of specificity prevalent in American perspective towards any person east of Europe. Where my parents grew up, my clothes, demeanor, and struggle with the language indicates that I'm not South Vietnamese, not even Vietnamese, but American. Nothing like them at all.
 

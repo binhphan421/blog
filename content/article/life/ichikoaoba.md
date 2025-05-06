@@ -2,12 +2,8 @@
 date = '2025-04-28T10:23:37-07:00'
 categories = ['Life']
 title = 'Ichiko Aoba'
-description = 'At the Wiltern on April 27th, 2025'
+featuredImage = '/blog/images/ichikoaoba/wiltern.jpg'
 +++
-
-{{< figure src="/blog/images/ichikoaoba/wiltern.jpg">}} 
-
----
 
 The day was a personally planned belated Birthday bash, if you will, centered around music: a trip to the OC Record Show to splurge on vinyls (that I have no clue whether or not are accurately priced), and the main entree, a ticket to see Ichiko Aoba at the Wiltern, bought months prior on a whim from an Instagram ad. 
 

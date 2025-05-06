@@ -2,11 +2,8 @@
 date = '2025-04-24T22:34:02-07:00'
 title = 'Stasis'
 categories = ['Personal']
+featuredImage = '/blog/images/stasis/pepper.jpg'
 +++
-
-{{< figure src=/blog/images/stasis/pepper.jpg >}}
-
----
 
 I think, it was the first time I ever had an anxiety attack. 
 

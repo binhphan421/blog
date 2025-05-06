@@ -2,11 +2,8 @@
 date = '2025-04-20T19:38:36-07:00'
 title = 'About Me'
 menu = 'topnav'
+featuredImage = '/blog/images/me/fam.jpg'
 +++
-
-{{< figure src="/blog/images/me/fam.jpg" >}}
-
----
 
 Hello, my name is Binh Phan (as you most likely already know, if you found this page) and the avatar is my little buddy Pepper. 😸
 
