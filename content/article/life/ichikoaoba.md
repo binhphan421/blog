@@ -1,6 +1,6 @@
 +++
 date = '2025-04-28T10:23:37-07:00'
-categories = ['Random']
+categories = ['Life']
 title = 'Ichiko Aoba'
 description = 'At the Wiltern on April 27th, 2025'
 +++

@@ -7,25 +7,29 @@ theme = 'bilberry'
   [caches.images]
     dir = ':cacheDir/images'
 [module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.87.0"
+  [[module.imports]]
+    path = "bilberry/v4"
 
 [params]
-  mainSections = ["posts"]
-  featuredImageField = "image"
-  rssFullContent = true
-  enableLightDarkTheme = true
   permanentTopNav = true
   customImage = "site/pepper.jpg"
   subtitle = "Since I cannot speak, I write."
-  css_modules = [ "css/logo.css" ]
-
-  [params.favicon]
-
-  [params.footer]
-    since = ""
-    customText = ""
+  baseColor = "#F05941" 
+  specialColor = "#BE3144"
+  highlightColor = "#872341"
+  pageBackgroundColor = "#191919"
+  headerTextColor = "#f1f1f1"
+  textColor = "#f1f1f1"
+  connectionLineColor = "#444"
+  connectionDotColor = "#444"
+  bubbleBackgroundColor = "#373737"
+  articleBackgroundColor = "#222"
+  metaTextcolor = "darken(#f1f1f1,40)"
+  footerBorderColor = "#F05941"
+  footerBackgroundColor = "#191919"
+  footerHeadlineColor = "#BE3144"
+  overlayIcon ="fa-home"
+  css_modules = [ "css/custom.css" ]
 
   [params.dateFormat]
     published = "Jan 02, 2006"
@@ -39,14 +43,6 @@ theme = 'bilberry'
 
   [params.comments]
     enabled = false
-
-[[menu.main]]
-  identifier = "home"
-  name = "Home"
-  url = "/"
-  weight = -100
-  [menu.main.params]
-    icon = "home"
 
 [[menu.social]]
   identifier = "instagram"

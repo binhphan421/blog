@@ -1,7 +1,7 @@
 +++
 date = '2025-05-04T19:58:18-07:00'
 title = 'Spring'
-categories = ['Random']
+categories = ['Poetry']
 description = 'Attempt to be more rhythm / rhyme conscious.'
 +++
 

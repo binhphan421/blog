@@ -1,0 +1,66 @@
+.bilberry-hugo-theme header .logo img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%; /* Perfect circle */
+    object-fit: cover;  /* Maintain aspect ratio and cover the container */
+    display: block;
+}
+
+.bilberry-hugo-theme .container {
+    width: 1000px !important;
+}
+
+.bilberry-hugo-theme article {
+    width: 900px !important;
+}
+
+.bilberry-hugo-theme footer .container ul li {
+    border-bottom: 0px;
+}
+
+/*.bilberry-hugo-theme header {
+    background-color: #FF9D11;
+}
+
+.bilberry-hugo-theme nav {
+    background: #dd8200;
+    color: #f1f1f1;
+    display: none
+}
+
+.bilberry-hugo-theme nav ul li a:hover {
+    background-color: #C77500;
+}
+
+.bilberry-hugo-theme header .logo .overlay {
+    background-color: #dd8200;
+}
+
+.bilberry-hugo-theme article .content h1 a:hover {
+    color: #dd8200;
+}
+
+.bilberry-hugo-theme article .content .meta a:hover {
+    color: #dd8200;
+}
+
+.bilberry-hugo-theme article .content a {
+    color: #dd8200;
+}
+
+.bilberry-hugo-theme .main .article-wrapper .bubble:hover {
+    background-color: #dd8200
+}
+
+.bilberry-hugo-theme footer .container ul a {
+    color: #dd8200;
+}
+
+.bilberry-hugo-theme a:hover {
+    color: #000000
+}
+
+.bilberry-hugo-theme article .content a.more {
+    color: #dd8200;
+}
+*/
