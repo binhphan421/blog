@@ -18,6 +18,10 @@
     border-bottom: 0px;
 }
 
+@font-face {
+  src: url("../blog/webfonts/fa-solid-900.woff2") format("woff2"), url("../blog/webfonts/fa-solid-900.ttf") format("truetype"); }
+}
+
 /*.bilberry-hugo-theme header {
     background-color: #FF9D11;
 }

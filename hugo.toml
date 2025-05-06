@@ -1,11 +1,8 @@
-baseURL = 'https://binhphan421.github.io/blog/'
+baseURL = '/blog/'
 languageCode = 'en-us'
 title = 'Binh'
 theme = 'bilberry'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
 [module]
   [[module.imports]]
     path = "bilberry/v4"
@@ -28,8 +25,8 @@ theme = 'bilberry'
   footerBorderColor = "#F05941"
   footerBackgroundColor = "#191919"
   footerHeadlineColor = "#BE3144"
-  overlayIcon ="fa-home"
   css_modules = [ "css/custom.css" ]
+  paginate = 10
 
   [params.dateFormat]
     published = "Jan 02, 2006"

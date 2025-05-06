@@ -1,7 +1,7 @@
 +++
 date = '2025-04-20T19:38:36-07:00'
 title = 'About Me'
-
+menu 
 +++
 
 {{< figure src="/blog/images/me/fam.jpg" >}}

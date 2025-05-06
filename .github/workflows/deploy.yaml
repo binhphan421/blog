@@ -65,9 +65,10 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+          sed -i "s~webfonts~blog/webfonts~g" public/theme.css
+          sed -i "s~/fonts~/blog/fonts~g" public/theme.css
       - name: Cache Save
         id: cache-save
         uses: actions/cache/save@v4
