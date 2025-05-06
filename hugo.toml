@@ -25,8 +25,17 @@ theme = 'bilberry'
   footerBorderColor = "#F05941"
   footerBackgroundColor = "#191919"
   footerHeadlineColor = "#BE3144"
+  navTextColor = "#f1f1f1"
   css_modules = [ "css/custom.css" ]
   paginate = 10
+  showSocialMedia = true
+  socialMediaLinks = [
+    { link = "https://www.instagram.com/binhphan421/", icon = "fa-brands fa-instagram", rel = "me" },
+    { link = "https://open.spotify.com/user/121516000?si=d09a2ffa2fab4e8a", icon = "fa-brands fa-spotify", rel = "me" },
+    { link = "https://letterboxd.com/binhphan421/", icon = "fa-brands fa-letterboxd", rel = "me" },
+    { link = "https://myanimelist.net/profile/binhphan421", icon = "fa-solid fa-tv-retro", rel = "me" },
+    { link = "https://backloggd.com/u/binhphan421/", icon = "fa-solid fa-gamepad", rel = "me" }
+  ]
 
   [params.dateFormat]
     published = "Jan 02, 2006"
