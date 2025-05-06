@@ -33,7 +33,7 @@ theme = 'bilberry'
     { link = "https://www.instagram.com/binhphan421/", icon = "fa-brands fa-instagram", rel = "me" },
     { link = "https://open.spotify.com/user/121516000?si=d09a2ffa2fab4e8a", icon = "fa-brands fa-spotify", rel = "me" },
     { link = "https://letterboxd.com/binhphan421/", icon = "fa-brands fa-letterboxd", rel = "me" },
-    { link = "https://myanimelist.net/profile/binhphan421", icon = "fa-solid fa-tv-retro", rel = "me" },
+    { link = "https://myanimelist.net/profile/binhphan421", icon = "fa-solid fa-tv", rel = "me" },
     { link = "https://backloggd.com/u/binhphan421/", icon = "fa-solid fa-gamepad", rel = "me" }
   ]
 
