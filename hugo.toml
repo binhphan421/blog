@@ -1,4 +1,4 @@
-baseURL = '/blog/'
+baseURL = 'https://binhphan421.github.io/blog/'
 languageCode = 'en-us'
 title = 'Binh'
 theme = 'bilberry'
