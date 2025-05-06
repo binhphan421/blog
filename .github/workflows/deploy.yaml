@@ -68,6 +68,8 @@ jobs:
             --environment development \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+          ls -la
+          ls -la ./public
           sed -i "s~webfonts~blog/webfonts~g" ./public/theme.css
           sed -i "s~/fonts~/blog/fonts~g" ./public/theme.css
       - name: Cache Save
