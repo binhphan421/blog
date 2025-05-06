@@ -65,6 +65,7 @@ jobs:
         run: |
           hugo \
             --gc \
+            --environment development \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
           sed -i "s~webfonts~blog/webfonts~g" ./public/theme.css
