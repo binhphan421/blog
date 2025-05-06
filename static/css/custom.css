@@ -6,65 +6,6 @@
     display: block;
 }
 
-.bilberry-hugo-theme .container {
-    width: 1000px !important;
-}
-
-.bilberry-hugo-theme article {
-    width: 900px !important;
-}
-
 .bilberry-hugo-theme footer .container ul li {
     border-bottom: 0px;
 }
-
-@font-face {
-  src: url("../blog/webfonts/fa-solid-900.woff2") format("woff2"), url("../blog/webfonts/fa-solid-900.ttf") format("truetype"); }
-}
-
-/*.bilberry-hugo-theme header {
-    background-color: #FF9D11;
-}
-
-.bilberry-hugo-theme nav {
-    background: #dd8200;
-    color: #f1f1f1;
-    display: none
-}
-
-.bilberry-hugo-theme nav ul li a:hover {
-    background-color: #C77500;
-}
-
-.bilberry-hugo-theme header .logo .overlay {
-    background-color: #dd8200;
-}
-
-.bilberry-hugo-theme article .content h1 a:hover {
-    color: #dd8200;
-}
-
-.bilberry-hugo-theme article .content .meta a:hover {
-    color: #dd8200;
-}
-
-.bilberry-hugo-theme article .content a {
-    color: #dd8200;
-}
-
-.bilberry-hugo-theme .main .article-wrapper .bubble:hover {
-    background-color: #dd8200
-}
-
-.bilberry-hugo-theme footer .container ul a {
-    color: #dd8200;
-}
-
-.bilberry-hugo-theme a:hover {
-    color: #000000
-}
-
-.bilberry-hugo-theme article .content a.more {
-    color: #dd8200;
-}
-*/
