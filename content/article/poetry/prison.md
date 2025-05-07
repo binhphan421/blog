@@ -7,7 +7,7 @@ categories = [ 'Poetry' ]
 The mind makes ease of trouble
 	The heart feels it nonetheless
 Rationale bears so that I am able
-	Reality brings doubt, stress
+	Reality brings the doubt, the stress
 So sure we are, of our progress, our convictions
 	But time, the last edict, enacts its fate
 	Only when held to our eyes, do we feel the weight
