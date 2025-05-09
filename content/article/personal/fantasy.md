@@ -16,4 +16,4 @@ Yet, I still long for the chance to know and understand them. I still delude mys
 
 *When my true thoughts are heard, they'll know I'm more than what I show.*
 
-The issue at hand is really me and my ineptitude in communicating. The veil obscures both ways. I wonder when, the words from my pen will appear in the air from my mouth. When my fear of rejection, misunderstanding, and conflict will finally be outmatched by my fear of not being heard. When the fantasies end, the veil is gone, and I live in reality.
+The issue at hand is really me and my ineptitude in communicating. The veil obscures both ways. I wonder when, the words from my pen will appear in the air from my mouth. When my fear of rejection, misunderstanding, and conflict will finally be outmatched by my fear of not being heard. When the fantasies end, the veil is gone, and I finally live in reality.
