@@ -10,4 +10,4 @@ We all dance in different tunes. Past and present provides the baseline for the 
 
 Drowned in sound, you jive, you sway and you tango, wherever the rhythm destines, praying it'll lead to the cathartic revelation we have all ached for. When we finally swing away from the chaos of consciousness, to the realm of poetry, where there is basis in madness, aim in our struggles, and at long last, affirmation in our rationale. The dance yet ends. The music still plays. But we have vision. We have purpose. 
 
-Until that clarity is found, I strum in hopes the vibrations, and motions find my dream: where the chase for beauty ends, and the meter of my life lands the elegance I have longed all my life for. 
+Until that clarity is found, I strum in hopes the vibrations, and motions find my dream: where the chase for beauty ends, and the meter of my life lands the elegance I have longed for. 
