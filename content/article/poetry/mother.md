@@ -2,6 +2,7 @@
 date = '2025-05-11T21:44:56-07:00'
 title = 'Mother'
 categories = ['Poetry']
+featuredImage = '/blog/images/mother/mom.jpg'
 +++
 
 The oldest of seven,   
