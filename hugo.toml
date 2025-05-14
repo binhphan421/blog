@@ -34,11 +34,11 @@ summaryLength = 750
   paginate = 10
   showSocialMedia = true
   socialMediaLinks = [
-    { link = "https://www.instagram.com/binhphan421/", icon = "fa-brands fa-instagram", rel = "me" },
-    { link = "https://open.spotify.com/user/121516000?si=d09a2ffa2fab4e8a", icon = "fa-brands fa-spotify", rel = "me" },
-    { link = "https://letterboxd.com/binhphan421/", icon = "fa-brands fa-letterboxd", rel = "me" },
-    { link = "https://myanimelist.net/profile/binhphan421", icon = "fa-solid fa-tv", rel = "me" },
-    { link = "https://backloggd.com/u/binhphan421/", icon = "fa-solid fa-gamepad", rel = "me" }
+    { link = "https://www.instagram.com/binhphan421/", icon = "fa-brands fa-instagram", rel = "Instagram" },
+    { link = "https://open.spotify.com/user/121516000?si=d09a2ffa2fab4e8a", icon = "fa-brands fa-spotify", rel = "Spotify" },
+    { link = "https://letterboxd.com/binhphan421/", icon = "fa-brands fa-letterboxd", rel = "LetterBoxd" },
+    { link = "https://myanimelist.net/profile/binhphan421", icon = "fa-solid fa-tv", rel = "MyAnimeList" },
+    { link = "https://backloggd.com/u/binhphan421/", icon = "fa-solid fa-gamepad", rel = "Backloggd" }
   ]
 
   [params.dateFormat]
@@ -53,10 +53,3 @@ summaryLength = 750
 
   [params.comments]
     enabled = false
-
-[[menu.social]]
-  identifier = "instagram"
-  name = "Instagram"
-  url = "https://www.instagram.com/binhphan421/"
-  [menu.social.params]
-      icon = "brand-instagram"
