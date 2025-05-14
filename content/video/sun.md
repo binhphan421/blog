@@ -2,7 +2,7 @@
 date = '2025-05-12T20:52:49-07:00'
 title = 'Sun'
 categories = ["Creative"]
-youtube = "https://www.youtube.com/watch?v=Whe7MURlKLw"
+youtube = "Whe7MURlKLw"
 +++
 
 For a state generally admired for warm weather, the wind still pierced my textile jacket, as I leaned against my Kawasaki, staring along the horizon of fading stars. The sun has yet to rise, held back by time and earthly rotations, just as I'm restrained from lighting a cigarette under a gas station canopy, albeit for different reasons. It's cold. I'm desperate. There has been little warmth on this long lonely journey and only promise still fuels this drive. 
