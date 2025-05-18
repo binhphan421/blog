@@ -1,5 +1,5 @@
 +++
-date = '2025-05-18TT02:10:53-07:00'
+date = '2025-05-18T02:10:53-07:00'
 title = 'Faith'
 categories = ['Personal']
 +++
