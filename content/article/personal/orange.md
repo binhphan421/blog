@@ -20,6 +20,6 @@ The color of a fruit that shares its namesake. One that I still remember my fath
 
 Every single connection, regardless of weight and depth, holds value. It moves us, to put meaning into the very things we experience like the colors we see. So I cannot let a man who see lives as pieces on a board steal that from me. I wear orange for a little rebellion, by a boy who often feels helpless at how cruel the world spins. 
 
->> In reality, nothing but a droplet in the torrent of real world issues that far outweigh debate over the implication of color. 
->> Yet, a childish side of me yells, "We'll take it all back!" We will take back every little thing, to strip him of his power over us. 
->> And I really wanted to write about Orange.
+> * In reality, nothing but a droplet in the torrent of real world issues that far outweigh debate over the implication of color.  
+> * Yet, a childish side of me yells, "We'll take it all back!" We will take back every little thing, to strip him of his power over us.  
+> * And I really wanted to write about Orange.  
