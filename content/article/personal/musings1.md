@@ -14,7 +14,7 @@ Both days of the weekend used to be for her. Now it just hurts too much. How muc
 
 With each step the No Kings protesters took down Main Street, Santa Ana, a chord was struck within my chest. They moved with a vigor I seldom see in Orange County. This is, for the most part, Trump Land, especially where I grew up in Westminster.
 
-Their determination to brave the injustices underneath the California Sun awoken a hope in me. We've grown accustomed to being the apples among oranges around here. Maybe, we the people, are not as rotten at the cord as I believed. 
+Their determination to brave the injustices underneath the California Sun awoken a hope in me. We've grown accustomed to being the apples among oranges around here. Maybe, we the people, are not as rotten at the core as I believed. 
 
 #### 3 - Steps
 
