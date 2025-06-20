@@ -1,6 +1,6 @@
 +++
 date = '2025-06-15T12:56:00-07:00'
-title = 'Musing #1'
+title = 'Musings #1'
 categories = ['Personal']
 +++
 
