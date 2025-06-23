@@ -32,6 +32,6 @@ She forgets but I don't. That she said this. Her go to order at Com Tam Thanh. W
 
 Each dropped thought lands daggers into my chest. Her earnest request, the coup de grace. 
 
-I've been running with guilt's cold grasp on my neck. No epiphany or conclusion will unburden the crushing exptecations. 
+I've been running with guilt's cold grasp on my neck. No epiphany or conclusion will unburden the crushing expectations. 
 
 I'm sorry. I'm afraid I won't ever be bigger than this.
