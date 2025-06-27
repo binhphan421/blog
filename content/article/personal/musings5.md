@@ -2,6 +2,7 @@
 date = '2025-06-27T00:00:00-07:00'
 title = 'Musings #5'
 categories = ['Personal']
+featuredImage = "https://film-grab.com/wp-content/uploads/photo-gallery/Hana_Bi_056.jpg?bwg=1629968506"
 +++
 
 #### Nightmare
