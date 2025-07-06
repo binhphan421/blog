@@ -16,7 +16,7 @@ I fear the answer. God has already left me in pieces. What more does he want of 
 
 #### Strangers
 
-Why do I dream of essentially strangers saving me from my own struggles? When my thoughts' two hands suffocate me, I imagine those who hardly know me to easy the choke. As if I had given up on showing anything but a facade to those who know me, and hoping those who don't can see through my dance. 
+Why do I dream of essentially strangers saving me from my own struggles? When my thoughts' two hands suffocate me, I imagine those who hardly know me to ease the choke. As if I had given up on showing anything but a facade to those who know me, and hoping those who don't can see through my dance. 
 
 I am the one who folded the winning hand. I am the one who refused to win back my sanity.
 
