@@ -14,6 +14,6 @@ Ashamed when others saw her hair, the once ocean of black dried to lands of grey
 
 Ashamed that this is the reward for all those years dedicated to her: a woman stuck in years long past, in a body that is fading with her memories. In her I see the results of that dedication and my shame manifested: I have failed her, as I did my father. Time will slowly claim her as the prize, and I will write of my defeat, as the family man now shattered boy. 
 
-I am ashamed that I know longer know what to do. What I want. That I write, and write only to find myself again at the very beginning. Like a broken clock hand that never found the strength to move at all, praying that perfect hour will eventually arrive, when it has already passed.
+I am ashamed that I no longer know what to do. What I want. That I write, and write only to find myself again at the very beginning. Like a broken clock hand that never found the strength to move at all, praying that perfect hour will eventually arrive, when it has already passed.
 
 Every hour is the same as the one before, and the one that comes next. The present is the dream I have created with that time. But knowing is no medicine. I ache, I hurt all the time.
