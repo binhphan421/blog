@@ -8,8 +8,8 @@ featuredImage = 'https://film-grab.com/wp-content/uploads/photo-gallery/Tampopo_
 #### Ladder
 
 >*Everyone has their own ladder. Some do their best to climb to the top, while others don't realize they have a ladder.*  
->*You came along and helped me find my ladder.*  
 >  
+>*You came along and helped me find my ladder.*  
 > - [Tampopo, 1985](https://film-grab.com/2022/01/18/tampopo/#)
 
 I hope at the top of that ladder, is where I'll find that mythical essence that will grant me my longed for contentment. Whatever it is. Whomever.
