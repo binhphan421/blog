@@ -6,17 +6,17 @@ categories = ['Personal']
 
 #### Insignificant
 
-You are the shores in my ocean.
-I, only but a fading tear in yours.
+You are the shores in my ocean.  
+I, only but a fading tear in yours.  
 
-You are the soothing breeze in the summer heat.
-I, the remaining void once you've flown by.
+You are the soothing breeze in the summer heat.  
+I, the remaining void once you've flown by.  
 
-All I see is your touch. Your power.
-And the weight crushes me.
+All I see is your touch. Your power.  
+And the weight crushes me.  
 
-Knowing your eyes does not scan the sky,
-The way mine dream of you in self told lies.
+Knowing your eyes does not scan the sky,  
+The way mine dream of you in self told lies.  
 
 ---
 
