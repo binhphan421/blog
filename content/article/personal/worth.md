@@ -1,17 +1,21 @@
 +++
-date = '2025-09-08T00:00:00-07:00'
-title = 'Worth'
+date = '2025-09-28T00:00:00-07:00'
+title = 'To Want'
 categories = ['Personal']
 +++
 
-Is it worth it?
+To whom it may concern,
 
-So much of adult decision making weighs this question. We balance potential, and cost, whether the mass is emotional, financial, time, or whatever we deem of value. We are the granters of weight.
+There is a shallow humility on display when I deny myself any wants or needs. I may choose simple, and honorable quarries to veil it, but the hidden message I pantomime is all the same, and ultimately the act is appeasement for my fragile ego.
 
-This is today's battle, my writing laid to the scale. My mind has sustained itself with cathartic sensations upon each finished piece; but what has really changed? Am I different? Better?
+How natural is it for us, as living, breathing souls, to desire? For the comfort and absolution from isolation in love. For the direction and faith of our destined dreams. For understanding. To rid ourselves of any primordial instincts, is to cleave that piece of humanity from our physical shell of an existence. 
 
-I fear being the snake smitten with its own tail. A cycle of self produced hatred, and homemade delusions persisting for an eternity. I fear as I am now, when the temple drums sound in her name, I will wish for mine to follow. To end eternity, I would swallow myself whole and escape the question. 
+In a mimicry of asceticism, I hide behind mirrors, using the illusion of managed self-desire to deny entry into my heart, and leave those curious enough, those who care enough, questioning: who is it that they see when their eyes lay upon me?
 
-Is it worth it?
+I am sorry. I was, and am, broken. I do not wish for people to see who I am, why I scream and bleed, and where I lose my sanity. 
 
-Yes. You're trying now. Aren't you? 
+Please know, that behind the glass, I struggle on, wading through the swamps of doubts and uncertainties, probing in the obscuring fog of an unknown future, only guided by your voices, and for better or worse, mine. I search for the remembrance of wanting, without the shame of the past, or the shame of being human, in hopes that one day, you may once again see the person that I am.
+
+Hopefully,
+
+Binh
