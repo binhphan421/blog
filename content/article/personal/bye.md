@@ -13,7 +13,7 @@ Yet the mind does not follow. Together in a waltz with my eyes, my thoughts danc
 
 But the chicken rice at 1.99 Restaurant is tasteless when I can no longer share it with you.
 
-The red Columbia jacket you bought me is cold when I can no longer see your smile when you realize I'm wearing your gift. 
+The red Columbia jacket you bought me is cold when I can no longer see your smile once you realize I'm wearing your gift. 
 
 The drive, alongside the Westminsters, the Brookhursts, the Magnolias, the Hazards, and anywhere we used to roam together nearly every Saturday, is empty when I no longer see your oversized weathered sun hat blocking my rightside mirror.
 
