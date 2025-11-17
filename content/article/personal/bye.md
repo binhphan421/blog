@@ -9,7 +9,7 @@ These weeks, I've been living in two worlds. Past and present. Remembering and s
 
 Every step and push I take to right myself in this passage of time is just responsibility. Duty. Something that has been a driving force all my life. Something I dedicated to her. The body can walk on its own. Eat. Sleep. Breathe. I manage well enough in spite of it all. 
 
-Yet the mind does not follow. Together in a waltz with my eyes, my thoughts dance to the moments where she was right here by my side. When I was amidst all the smiles, laughter, tears, words, drives, frustrations, photos, meals and whatever tangible or intangible thing I could share with her, I never knew I would be living the most fulfilling part of my life. With the broken promise of eternity, the reality that all things end, I am hollow and escape to memories to dream of when I was whole. 
+Yet the mind does not follow. Together in a waltz with my eyes, my thoughts dance to the moments where she was right here by my side. When I was amidst all the smiles, laughter, tears, words, drives, frustrations, photos, meals and whatever tangible or intangible thing I share with her, I never knew I would be living the most fulfilling part of my life. With the broken promise of eternity, the reality that all things end, I am hollow and escape to memories to dream of when I was whole. 
 
 But the chicken rice at 1.99 Restaurant is tasteless when I can no longer share it with you.
 
