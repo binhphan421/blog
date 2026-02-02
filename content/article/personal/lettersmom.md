@@ -4,11 +4,11 @@ title = 'Letters (I Would Never Send): Mẹ'
 categories = ['Personal', 'Letters']
 +++
 
-*This is a new series I'm trying, writing letters to people I think of with an honesty I'd never show in person.*
-*Mẹ -> Mom*
-*Ba -> Dad*
-*Con -> Child/Son/Daughter*
-*15th Draft*
+*This is a new series I'm trying, writing letters to people I think of with an honesty I'd never show in person.*  
+*Mẹ -> Mom*  
+*Ba -> Dad*  
+*Con -> Child/Son/Daughter*  
+*15th Draft*  
 ---
 
 Hi Mẹ. 
