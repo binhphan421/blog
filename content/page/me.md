@@ -2,16 +2,10 @@
 date = '2025-04-20T19:38:36-07:00'
 title = 'About Me'
 menu = 'topnav'
-featuredImage = '/blog/images/me/fam.jpg'
+featuredImage = '/blog/images/me/me.jpg'
 +++
 
-Hello, my name is Binh Phan (as you most likely already know, if you found this page) and the avatar is my little buddy Pepper. 😸
-
-I started writing again in November 2024, after a long hiatus originating from when I entered the corporate world in 2016, so as a result of the long break, I'm still in search of that style, and voice that I would be proud of. I started this blog with the idea of translating and cleaning some of my personal journal entries for others to view, granted they are curious enough to find this page. You may also find more random posts in the future, maybe reviews or attempts at more creative pieces. 
-
-Apologies in advance. I have found since coming back to this world, that I'm often moody when writing (potentially under the influence), and it will definitely show. Please bear with me as I try to show what I often am too scared to say.
-
-And do not worry about me. My expression here is not to give up; it is for me to find what it means to live.
+Hi, my name is Binh, and I'm just trying to find what it means to live. 
 
 ---
 
