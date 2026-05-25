@@ -16,5 +16,5 @@ One day, I will move on. With the loving legacy that my mother left in my heart.
 
 Happy Belated Birthday, punk. 
 
-> When my birthday came around last month, I couldn't put to words the cycles and circles I was living in. And it showed in the stagnant pen. 
-> Yet, as cowardly and blind as I am, as the grains of time fall, even the fool will find his way. 
+> When my birthday came around last month, I couldn't put to words the cycles and circles I was living in. And it showed in the stagnant pen.   
+> Yet, as cowardly and blind as I am, as the grains of time fall, even the fool will find his way.  
